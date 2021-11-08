@@ -19,8 +19,8 @@ Keep scrolling if you really want the solution now!
 
 * Developers could leave the password or some sensitive information in the comments while testing the code. The credentials or the information could be of no real value but that can be used to get other useful information. 
 
-* #### If you are like nooo way !!, then you should probably check articles out
-[Private keys exposed](https://www.theregister.com/2020/01/24/rogers_code_exposed/)<br>
+* #### If you are like nooo way !!, then you should probably check these articles out
+    [Private keys exposed](https://www.theregister.com/2020/01/24/rogers_code_exposed/)<br>
 [A good article to read](https://www.linkedin.com/pulse/your-codebase-leaking-sensitive-data-yasir-ali/)
 
 ## **Prevention**
