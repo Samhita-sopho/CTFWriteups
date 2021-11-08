@@ -11,7 +11,7 @@ Keep scrolling if you really want the solution now!
 * Ctrl + shift + i = open the inspector window right-click select inspect from drop down
 * When you expand the code you should see HTML comment tag enclosed with ``` <!-- --> ```
 ```
-<!--- You should find the flag here >
+<!--- You should find the password here >
 ```
 * That should be the password for the next level i.e. level 1
 
@@ -21,7 +21,7 @@ Keep scrolling if you really want the solution now!
 
 * #### If you are like nooo way !!, then you should probably check these articles out
     [Private keys exposed](https://www.theregister.com/2020/01/24/rogers_code_exposed/)<br>
-[A good article to read](https://www.linkedin.com/pulse/your-codebase-leaking-sensitive-data-yasir-ali/)
+    [How sensitive information is exposed](https://www.linkedin.com/pulse/your-codebase-leaking-sensitive-data-yasir-ali/)
 
 ## **Prevention**
 
